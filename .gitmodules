@@ -4,3 +4,6 @@
 [submodule "chapter1"]
 	path = chapter1
 	url = https://github.com/Hiiiua/chapter1.git
+[submodule "prelim"]
+	path = prelim
+	url = https://github.com/Hiiiua/prelim.git
